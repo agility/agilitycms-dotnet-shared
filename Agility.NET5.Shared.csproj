@@ -7,6 +7,7 @@
     <Company>Agility CMS</Company>
     <Product>Agility SDK .NET 5.0</Product>
     <Description>Agility project for shared classes for Agility.NET5.FetchAPI, Agility.NET5.Core and Agility.NET5.AgilityCLI</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
