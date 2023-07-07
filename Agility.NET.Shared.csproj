@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Agility.NET.Shared</RootNamespace>
+    <Authors>Daniel Karpienia</Authors>
+    <Company>Agility CMS</Company>
+    <Product>Agility SDK .NET</Product>
+    <Description>Agility project for shared classes for Agility.NET.FetchAPI, Agility.NET.Core and Agility.NET.AgilityCLI</Description>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
