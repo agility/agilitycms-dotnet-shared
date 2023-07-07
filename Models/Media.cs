@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Agility.NET5.Shared.Models
+namespace Agility.NET.Shared.Models
 {
     public class Media
     {

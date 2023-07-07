@@ -1,7 +1,7 @@
 
 using System.Text.Json;
 
-namespace Agility.NET5.Shared.Util
+namespace Agility.NET.Shared.Util
 {
     public static class Constants
     {
